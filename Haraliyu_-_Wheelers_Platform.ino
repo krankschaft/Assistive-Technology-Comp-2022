@@ -1,6 +1,4 @@
-/*
- * Initial Author: ryand1011 (https://github.com/ryand1011)
- *
+
  * Reads data written by a program such as "rfid_write_personal_data.ino"
  *
  * See: https://github.com/miguelbalboa/rfid/tree/master/examples/rfid_write_personal_data
